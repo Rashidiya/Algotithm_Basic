@@ -10,6 +10,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+#include <stdio.h>
+int main(){
+    printf("hello, world\n");
+    return 0;
+}
 
 # Header 1
 ## Header 2
